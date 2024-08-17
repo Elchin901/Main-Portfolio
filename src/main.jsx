@@ -13,7 +13,7 @@ const router = createBrowserRouter([{
 {
   path:'/More',
   element:<More/>,
-  errorElement:<div>404 not found</div>
+  
 },
 ]);
 
