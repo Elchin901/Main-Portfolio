@@ -10,7 +10,7 @@ export const Navbar = () => {
         </div>
         <div className='pt-6 pl-3  '>
           <h1 className='color1'>Elchin Gonagov</h1>
-          <p className='color2'>QA Engineer | Automation & Manual Testing | ISTQB® Certified | Python & Playwright</p>
+          <p className='color2'>QA Engineer | Ex-React Developer</p>
         </div>
       </div>
     </div>
